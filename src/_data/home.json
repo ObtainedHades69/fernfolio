@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
+  "title": "UwUfolio",
+  "image": "/src/assets/img/1624843513.axontatsu_無題378_20210228003557.jpg",
   "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "body": "The super simple portfolio built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
 }
